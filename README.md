@@ -127,8 +127,12 @@ Q | A
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=vscode&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android&logoColor=3DDC84)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 <br />
 
