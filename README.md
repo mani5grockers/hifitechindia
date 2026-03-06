@@ -127,9 +127,9 @@ Q | A
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=vscode&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator&logoColor=FF9A00)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop&logoColor=31A8FF)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator&logoColor=FF9A00)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop&logoColor=31A8FF)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android&logoColor=3DDC84)&nbsp;
